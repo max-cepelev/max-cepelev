@@ -26,4 +26,5 @@
 ![Prisma](https://img.shields.io/badge/prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-3c76c3?style=for-the-badge&logo=sequelize&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
+![postman](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
