@@ -1,4 +1,4 @@
-## intro
+<!-- ## intro
 - 👋 Hi, I’m Max
 - 👀 I’m interested in creating efficient applications with high boot on Node.js
 - 🌱 I’m currently learning asynchronous programming on Node.js platform
