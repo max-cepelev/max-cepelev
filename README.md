@@ -9,8 +9,8 @@
 - ✍️ Code Editor: VSCode
 - 🕸 Broswer: Chrome
 - ⌨️ Programming Language: TypeScript (and C# (base))
-- 🖼 Front-end: React, Next.js
-- 🔙 Back-end Framework: NestJS (Node.js)
+- 🖼 Front-end: React, Solid.js
+- 🔙 Back-end Framework: Fastify (Node.js)
 - 🐢 Shell: bash
 - 📦 Package Manager: npm, pnpm
 
