@@ -1,17 +1,16 @@
 <!-- ## intro
 - 👋 Hi, I’m Max
 - 👀 I’m interested in creating efficient applications with high boot on Node.js
-- 🌱 I’m currently learning asynchronous programming on Node.js platform
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 ## favs
-- 💻 OS: Ubuntu, Windows
+- 💻 OS: Fedora
 - ✍️ Code Editor: VSCode
 - 🕸 Broswer: Chrome
 - ⌨️ Programming Language: TypeScript (and C# (base))
 - 🖼 Front-end: React, Solid.js
 - 🔙 Back-end Framework: Fastify (Node.js)
-- 🐢 Shell: bash
+- 🐢 Shell: fish
 - 📦 Package Manager: npm, pnpm
 
 ## stuff i know
